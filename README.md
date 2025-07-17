@@ -1,2 +1,2 @@
 # TwoWeekMinecraftPhaseModpack
-A Github Repo made for sharing a minecraft modpack
+A GitHub repo made for sharing a Minecraft modpack with friends
